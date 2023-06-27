@@ -1,2 +1,2 @@
-# Webscraper-BOL
-A web scraper for BOL.com made in Java with MVC as architecture
+# WebScraper-BOL
+A web scraper made in Java for BOL.com using the MVC architecture. 
